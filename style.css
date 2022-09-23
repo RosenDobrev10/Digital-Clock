@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: rgba(0, 0, 0, 0.9) 100%;
 }
 
 .clock {
@@ -7,8 +7,14 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #17d4fe;
+  color: #16d3fe;
   font-size: 80px;
   font-family: Orbitron;
+  font-style: oblique; 
+  font-weight: 900;
   letter-spacing: 7px;
+  border: 3px solid #16d3fe;
+  border-radius: 20px;
+  padding: 50px;
+  box-shadow: 1px 1px 1000px 1px #17d4fe;
 }
