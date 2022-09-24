@@ -1,4 +1,5 @@
 # Digital-Clock
+Cool digital clock
 
 Digital clock made with simple HTML5, CSS3 and Vanilla JavaScript.
 
